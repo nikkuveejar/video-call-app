@@ -1,2 +1,4 @@
 user id
 password
+chat mode
+dark mode
