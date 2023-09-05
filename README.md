@@ -46,6 +46,6 @@ After the above setup visit http://localhost:3030/ and the enjoy the project.
 
 ## Authors
 
-- [nikkuveejar](https://www.github.com/nikkuveejar)
+- [@aman2000iitg](https://www.github.com/aman2000iitg)
 
   
